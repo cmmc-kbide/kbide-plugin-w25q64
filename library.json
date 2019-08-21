@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-w25q64",
+  "title": "w25q64",
+  "keywords": "w25q64, esp32, esp8266, arduino",
+  "description": "Plugin w25q64 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-w25q64/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-w25q64/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
